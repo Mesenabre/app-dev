@@ -6,7 +6,7 @@ My first repository.
 *My School President,*
 *Bad Buddy,*
 *Your Sky*
-**Venom**
+ and **Venom**
 **Cinderella**
 
 
