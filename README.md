@@ -4,7 +4,7 @@ My first repository.
 **bold text**
 # Favorite Series 
 My School President
-Bad BUddy
+Bad Buddy
 Your Sky
 
  
