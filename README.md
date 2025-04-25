@@ -2,9 +2,13 @@
 My first repository.
 
 
-**# Favorite Series**
+# Favorite Series/Movie
 My School President,
 Bad Buddy,
-Your Sky
+**Your Sky**
+
+
+
+
 
  
