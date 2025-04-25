@@ -3,11 +3,11 @@ My first repository.
 
 
 # Favorite *Series*/**Movie**
-*My School President,*
-*Bad Buddy,*
-*Your Sky*
- and **Venom**
-**Cinderella**
+1. *My School President,*
+2. *Bad Buddy,*
+3. *Your Sky*
+4. **Venom**
+5. **Cinderella**
 
 
 
